@@ -2,8 +2,6 @@
 
 This project is a hackathon submission that reimagines LinkedIn with enhanced features for professional networking, skill validation, and career development. The application recreates the core LinkedIn experience while adding innovative features that improve skill verification and professional collaboration.
 
-![LinkedIn Pro](https://images.pexels.com/photos/5439153/pexels-photo-5439153.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
-
 ## Features
 
 **Profile Management**
